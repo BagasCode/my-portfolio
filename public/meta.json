@@ -1,5 +1,5 @@
 {
-    "name": "portfolio",
+    "name": "my-portfolio",
     "plugins": [
         {
             "name": "TailwindCSS",
