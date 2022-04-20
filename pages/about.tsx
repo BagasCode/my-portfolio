@@ -1,10 +1,9 @@
-import Navigation from "@components/Navigation";
 import React from "react";
 
-const Home: React.FC = () => {
+const About = () => {
     return (
         <>
-            <h1>Home</h1>
+            <h1>About</h1>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Tenetur magnam aspernatur pariatur fuga iure. Repellat, facilis
@@ -15,4 +14,4 @@ const Home: React.FC = () => {
     );
 };
 
-export default Home;
+export default About;
